@@ -35,6 +35,7 @@
 |       ✅        |   check data on the spread of Covid-19 in certain locations|
 |       ✅        |   Check Shipping info (indonesia only)         |
  |      ✅         |   Anti Spam                                   |
+ |      ✅         |   Cassino                                  |
 
 
 | Grup Only  |                                          |
