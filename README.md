@@ -21,11 +21,7 @@
 |       ✅        |   #promote @membro                   |
 |       ✅        |   #demote @membro                |
 
-## Oq há de novo
- - Foram adicionado mais comandos
- - Fix bug QR
- 
----
+
 
 ## Começando
 
