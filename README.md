@@ -5,9 +5,9 @@
 
 
 
-## Features
+## Comandos
 
-| Sticker Creator |                Comandos           |
+| Sticker Creator |                           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Send Photo with Caption          |
 |       ✅       | Reply A Photo                    |
@@ -15,7 +15,7 @@
 |       ✅       | Animated sticker using giphy url |
 
 
-| Downloader |                     Feature                |
+| Downloader |                                     |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Tiktok Downloader (No WM & WM)              |
 |       ✅        |   Twitter Video Downloader                    |
@@ -23,7 +23,7 @@
 |       ✅      |   Instagram Video Downloader                  |
 
 
-| Other  |                     Feature                     |
+| Other  |                                          |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Create Custom meme (top text & bottom text)  |
 |       ✅        |   Translate text (quote only)                  |
@@ -32,7 +32,7 @@
  |      ✅         |   Anti Spam                                   |
 
 
-| Grup Only  |                     Feature                     |
+| Grup Only  |                                          |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Promote User                  |
 |       ✅        |   Demote User                   |
