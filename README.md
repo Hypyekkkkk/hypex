@@ -13,8 +13,6 @@
 |       ✅       | Reply A Photo                    |
 |       ✅       | Image Url                        |
 |       ✅       | Animated sticker using giphy url |
-|       https://bit.ly/3hmgD4R       | sticker with no background       |
-|       https://bit.ly/3hmgD4R       | sticker meme      |
 
 
 | Downloader |                     Feature                |
@@ -31,7 +29,7 @@
 |       ✅        |   Translate text (quote only)                  |
 |       ✅        |   check data on the spread of Covid-19 in certain locations|
 |       ✅        |   Check Shipping info (indonesia only)         |
-|      BETA        |   Anti Spam                                   |
+ |      ✅         |   Anti Spam                                   |
 
 
 | Grup Only  |                     Feature                     |
@@ -40,34 +38,33 @@
 |       ✅        |   Demote User                   |
 |       ✅        |   Kick User                     |
 |       ✅        |   Delete bot message            |
-|       https://bit.ly/3hmgD4R        |   Mention All User      |
 
-## To-Do
- - Add More Feature
- - More refactoring
+## Oq há de novo
+ - Foram adicionado mais comandos
+ - Fix bug QR
  
 ---
 
-## Getting Started
+## Começando
 
-This project require NodeJS v12.
+Este projeto requer NodeJS.
 
 ### Install
 Clone this project
 
 ```bash
-> git clone https://github.com/YogaSakti/imageToSticker.git
-> cd imageToSticker
+> git clone https://github.com/Hypyekkkkk/hypex.git
+> cd hypex
 ```
 
-Install the dependencies:
+Instale as dependências:
 
 ```bash
 > npm install
 ```
 
 ### Usage
-1. run the Whatsapp bot
+1. execute o bot do Whatsapp
 
 ```bash
 > npm start
