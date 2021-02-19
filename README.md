@@ -13,7 +13,12 @@
 |       ✅       | Reply A Photo                    |
 |       ✅       | Image Url                        |
 |       ✅       | Animated sticker using giphy url |
-
+|       ✅       | TTP |
+|       ✅       | TTP1 |
+|       ✅       | TTP2 |
+|       ✅       | TTP3 |
+|       ✅       | TTP4 |
+|       ✅       | TTP5 |
 
 | Downloader |                                     |
 | :------------: | :---------------------------------------------: |
