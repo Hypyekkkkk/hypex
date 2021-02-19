@@ -33,6 +33,29 @@ module.exports = msgHandler = async (client, message) => {
         const isQuotedImage = quotedMsg && quotedMsg.type === 'image'
         const url = args.length !== 0 ? args[0] : ''
         const uaOverride = process.env.UserAgent
+        
+        const sotoy = [
+		'🍊 : 🍒 : 🍐',
+		'🍒 : 🔔 : 🍊',
+		'🍇 : 🍒 : 🍐',
+		'🍊 : 🍋 : 🔔',//by Fadhlur Owner of NotBot
+		'🔔 : 🍒 : 🍐',
+		'🔔 : 🍒 : 🍊',
+                '🍊 : 🍋 : 🔔',		
+		'🍐 : 🍒 : 🍋',
+		'🍐 : 🍐 : 🍐',
+		'🍊 : 🍒 : 🍒',
+		'🔔 : 🔔 : 🍇',
+		'🍌 : 🍒 : 🔔',
+		'🍐 : 🔔 : 🔔',
+		'🍊 : 🍋 : 🍒',
+		'🍋 : 🍋 : 🍌',
+		'🔔 : 🔔 : 🍇',
+		'🔔 : 🍐 : 🍇',
+		'🔔 : 🔔 : 🔔',
+		'🍒 : 🍒 : 🍒',
+		'🍌 : 🍌 : 🍌'
+		]
 
         // [BETA] Avoid Spam Message
         if (isCmd && msgFilter.isFiltered(from) && !isGroupMsg) { return console.log(color('[SPAM]', 'red'), color(moment(t * 1000).format('DD/MM/YY HH:mm:ss'), 'yellow'), color(`${command} [${args.length}]`), 'from', color(pushname)) }
@@ -59,6 +82,10 @@ module.exports = msgHandler = async (client, message) => {
             await client.sendText(from, menuId.textMenu(pushname))
                 .then(() => ((isGroupMsg) && (isGroupAdmins)) ? client.sendText(from, 'Menu Admin Grup: *#menuadmin*') : null)
             break
+               case 'cassino':
+          const somtoy = sotoy[Math.floor(Math.random() * (sotoy.length))]	
+         client.sendText(from, `[  🎰 | SLOTS ]\n-----------------\n🍋 : 🍌 : 🍍\n${somtoy}<=====\n🍋 : 🍌 : 🍍\n[  🎰 | SLOTS ]`, id)
+	     break
         case 'menuadmin':
             if (!isGroupMsg) return client.reply(from, 'Maaf, perintah ini hanya dapat dipakai didalam grup! [Group Only]', id)
             if (!isGroupAdmins) return client.reply(from, 'Gagal, perintah ini hanya dapat digunakan oleh admin grup! [Admin Group Only]', id)
