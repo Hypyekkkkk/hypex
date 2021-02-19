@@ -71,7 +71,6 @@ Instale as dependências:
 ```
 ```
 
-```bash
 > Escaneie o QR Para Conectar O Bot No Whatsapp
 ```
 ```
