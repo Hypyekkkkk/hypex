@@ -1,7 +1,6 @@
 <div align="center">
  
-# Whatsapp Bot - sticker creator
-[![Codefactor](https://www.codefactor.io/repository/github/yogasakti/imagetosticker/badge)](https://www.codefactor.io/repository/github/yogasakti/imagetosticker)
+# WHATSAPP-BOT
 <details>
 
 
@@ -73,14 +72,4 @@ Install the dependencies:
 ```bash
 > npm start
 ```
-
-after running it you need to scan the qr
-
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
-
-Fix Stuck on linux, install google chrome stable: 
-```bash
-> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-> sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
