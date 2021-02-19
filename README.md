@@ -68,9 +68,6 @@ Instale as dependências:
 
 ```bash
 > npm start
-```
-```
-
 > Escaneie o QR Para Conectar O Bot No Whatsapp
 ```
 ```
