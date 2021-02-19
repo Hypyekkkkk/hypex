@@ -9,41 +9,17 @@
 
 | Sticker Creator |                           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Image Url                        |
-|       ✅       | Animated sticker using giphy url |
-|       ✅       | TTP |
-|       ✅       | TTP1 |
-|       ✅       | TTP2 |
-|       ✅       | TTP3 |
-|       ✅       | TTP4 |
-|       ✅       | TTP5 |
-
-| Downloader |                                     |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Tiktok Downloader (No WM & WM)              |
-|       ✅        |   Twitter Video Downloader                    |
-|       ✅        |   Facebook Video Downloader (SD & HD)         |
-|       ✅      |   Instagram Video Downloader                  |
-
-
-| Other  |                                          |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Create Custom meme (top text & bottom text)  |
-|       ✅        |   Translate text (quote only)                  |
-|       ✅        |   check data on the spread of Covid-19 in certain locations|
-|       ✅        |   Check Shipping info (indonesia only)         |
- |      ✅         |   Anti Spam                                   |
- |      ✅         |   Cassino                                  |
+|       ✅       | #sticker // mande uma foto        |
+|       ✅       | #stickergif // mande um video                    |
+|       ✅       | #ig // link                      |
+|       ✅       | #cassino |
 
 
 | Grup Only  |                                          |
 | :------------: | :---------------------------------------------: |
-|       ✅        |   Promote User                  |
-|       ✅        |   Demote User                   |
-|       ✅        |   Kick User                     |
-|       ✅        |   Delete bot message            |
+|       ✅        |   #kick @membro                  |
+|       ✅        |   #promote @membro                   |
+|       ✅        |   #demote @membro                |
 
 ## Oq há de novo
  - Foram adicionado mais comandos
