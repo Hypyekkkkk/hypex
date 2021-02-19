@@ -7,7 +7,7 @@
 
 ## Features
 
-| Sticker Creator |                Feature           |
+| Sticker Creator |                Comandos           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Send Photo with Caption          |
 |       ✅       | Reply A Photo                    |
